@@ -6,7 +6,6 @@
 package hellonetbeans;
 
 /**
- *
  * @author Phil O'Connell <pxo4@psu.edu>
  */
 public class HelloNetbeans {
