@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
  */
 package hellonetbeans;
 
@@ -10,5 +8,5 @@ package hellonetbeans;
  * @author phil
  */
 public class Pxo4 {
-	private String _name = "Phil";
+	private String _name = "Phil!!";
 }
