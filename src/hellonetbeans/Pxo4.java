@@ -10,6 +10,5 @@ package hellonetbeans;
  * @author phil
  */
 public class Pxo4 {
-    
+	private String _name = "Phil";
 }
-ewaewa;
